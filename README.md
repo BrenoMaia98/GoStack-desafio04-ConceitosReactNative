@@ -1,2 +1,2 @@
-# GoStack-desafio04-ConceitosReactNative
-Repositório destinado ao desenvolvimento do desafio 04 - GoStack Bootcamp -Turma 11
+# GoStack-desafio02-ConceitosReact
+Repositório destinado ao desenvolvimento do desafio 02 - GoStack Bootcamp -Turma 11
